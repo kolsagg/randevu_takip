@@ -73,7 +73,7 @@ lib/
 
 ## Kurulum ve Çalıştırma
 
-1.  Proje dosyalarını klonlayın: `git clone https://github.com/emrekolunsag/randevu_takip.git`
+1.  Proje dosyalarını klonlayın: `git clone https://github.com/kolsagg/randevu_takip.git`
 2.  Gerekli bağımlılıkları yükleyin: `flutter pub get`
 3.  Uygulamayı bir emülatörde veya fiziksel cihazda çalıştırın: `flutter run`
 
@@ -95,9 +95,5 @@ Uygulama aşağıdaki mock JSON dosyalarını kullanmaktadır:
 ## Geliştirici
 
 *   Emre Kolunsağ
-*   202000000001
-*   emre.kolunsag@example.com
-
-## Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır.
+*   B2005.090051
+*   emrekolunsag@gmail.com
