@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "name": "Genel Muayene",
+    "duration": 30,
+    "price": 500,
+    "description": "Genel sağlık durumunuzun değerlendirilmesi için muayene."
+  },
+  {
+    "id": 2,
+    "name": "Kan Tahlili",
+    "duration": 15,
+    "price": 200,
+    "description": "Kan değerlerinizin ölçümü ve analizi."
+  },
+  {
+    "id": 3,
+    "name": "EKG",
+    "duration": 20,
+    "price": 300,
+    "description": "Kalp ritminizin değerlendirilmesi."
+  },
+  {
+    "id": 4,
+    "name": "Saç Kesimi",
+    "duration": 45,
+    "price": 150,
+    "description": "Profesyonel saç kesimi ve şekillendirme."
+  },
+  {
+    "id": 5,
+    "name": "Saç Boyama",
+    "duration": 120,
+    "price": 400,
+    "description": "Kök ve tüm saç boyama."
+  },
+  {
+    "id": 6,
+    "name": "Fön",
+    "duration": 30,
+    "price": 100,
+    "description": "Saç kurutma ve şekillendirme."
+  },
+  {
+    "id": 7,
+    "name": "Keratin Bakımı",
+    "duration": 90,
+    "price": 600,
+    "description": "Saç kırıklarına karşı keratin bakımı."
+  },
+  {
+    "id": 8,
+    "name": "Kişisel Fitness Eğitimi",
+    "duration": 60,
+    "price": 300,
+    "description": "Birebir fitness eğitmeni eşliğinde egzersiz programı."
+  },
+  {
+    "id": 9,
+    "name": "Pilates Dersi",
+    "duration": 60,
+    "price": 250,
+    "description": "Grup veya bireysel pilates dersi."
+  },
+  {
+    "id": 10,
+    "name": "Yoga Dersi",
+    "duration": 60,
+    "price": 250,
+    "description": "Grup veya bireysel yoga dersi."
+  },
+  {
+    "id": 11,
+    "name": "Cilt Bakımı",
+    "duration": 60,
+    "price": 500,
+    "description": "Derin temizlik ve nemlendirme içeren cilt bakımı."
+  },
+  {
+    "id": 12,
+    "name": "Makyaj",
+    "duration": 45,
+    "price": 300,
+    "description": "Gündüz veya gece için profesyonel makyaj uygulaması."
+  },
+  {
+    "id": 13,
+    "name": "Manikür",
+    "duration": 30,
+    "price": 150,
+    "description": "Tırnak bakımı ve oje uygulaması."
+  },
+  {
+    "id": 14,
+    "name": "Pedikür",
+    "duration": 40,
+    "price": 200,
+    "description": "Ayak bakımı ve oje uygulaması."
+  },
+  {
+    "id": 15,
+    "name": "Cilt Muayenesi",
+    "duration": 30,
+    "price": 600,
+    "description": "Cilt sorunlarının değerlendirilmesi."
+  },
+  {
+    "id": 16,
+    "name": "Akne Tedavisi",
+    "duration": 40,
+    "price": 700,
+    "description": "Akne sorunları için özel tedavi."
+  },
+  {
+    "id": 17,
+    "name": "Botoks",
+    "duration": 45,
+    "price": 1500,
+    "description": "Kırışıklıklara karşı botoks uygulaması."
+  }
+] 

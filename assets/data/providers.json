@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Ahmet Yılmaz",
+    "type": "Doktor",
+    "address": "Atatürk Cad. No:15, Kadıköy/İstanbul",
+    "image_url": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?ixlib=rb-4.0.3",
+    "description": "Uzman dahiliye doktoru. 15 yıllık deneyime sahiptir.",
+    "services": [1, 2, 3],
+    "rating": 4.8,
+    "phone": "0532 123 45 67"
+  },
+  {
+    "id": 2,
+    "name": "Ayşe Kaya Kuaför",
+    "type": "Kuaför",
+    "address": "Bağdat Cad. No:42, Kadıköy/İstanbul",
+    "image_url": "https://images.unsplash.com/photo-1562322140-8baeececf3df?ixlib=rb-4.0.3",
+    "description": "Kadın ve erkek kuaförlük hizmetleri. Modern ve şık kesimler.",
+    "services": [4, 5, 6, 7],
+    "rating": 4.5,
+    "phone": "0533 234 56 78"
+  },
+  {
+    "id": 3,
+    "name": "Mehmet Sağlam Spor",
+    "type": "Spor Salonu",
+    "address": "İstiklal Cad. No:30, Beyoğlu/İstanbul",
+    "image_url": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-4.0.3",
+    "description": "Profesyonel spor eğitmenleri eşliğinde fitness, pilates ve yoga dersleri.",
+    "services": [8, 9, 10],
+    "rating": 4.6,
+    "phone": "0535 345 67 89"
+  },
+  {
+    "id": 4,
+    "name": "Zeynep Güzel Güzellik Merkezi",
+    "type": "Güzellik Merkezi",
+    "address": "Cumhuriyet Cad. No:22, Şişli/İstanbul",
+    "image_url": "https://images.unsplash.com/photo-1516975080664-ed2fc6a32937?ixlib=rb-4.0.3",
+    "description": "Cilt bakımı, makyaj ve manikür hizmetleri.",
+    "services": [11, 12, 13, 14],
+    "rating": 4.7,
+    "phone": "0536 456 78 90"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Selin Çelik",
+    "type": "Doktor",
+    "address": "Barbaros Bulvarı No:5, Beşiktaş/İstanbul",
+    "image_url": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixlib=rb-4.0.3",
+    "description": "Uzman dermatoloji doktoru. Cilt hastalıkları ve estetik uygulamalar.",
+    "services": [15, 16, 17],
+    "rating": 4.9,
+    "phone": "0538 567 89 01"
+  }
+] 
