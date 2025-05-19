@@ -15,7 +15,6 @@ Bu proje, kullanıcıların çeşitli hizmetler için randevu almasını, görü
 
 ## Kullanılan Teknolojiler
 
-*   **Geliştirme Ortamı:** Visual Studio Code, Android Studio
 *   **Programlama Dili:** Dart
 *   **Framework/SDK:** Flutter
 *   **State Management:** Bloc (flutter_bloc)
