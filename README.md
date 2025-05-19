@@ -2,15 +2,6 @@
 
 Bu proje, kullanıcıların çeşitli hizmetler için randevu almasını, görüntülemesini ve yönetmesini sağlayan bir mobil uygulama geliştirmeyi amaçlayan bir ders projesidir. Uygulama, temel mobil geliştirme prensiplerini ve kullanıcı arayüzü tasarımını öğrenmek amacıyla mock (sahte) verilerle çalışacaktır.
 
-## Projenin Amacı
-
-*   Mobil uygulama geliştirme süreçlerini (tasarım, geliştirme, test) deneyimlemek.
-*   Temel UI/UX prensiplerini uygulamak.
-*   Veri listeleme, detay gösterme, kullanıcı etkileşimi ve state management gibi konularda pratik yapmak.
-*   Clean Architecture ve SOLID prensiplerini uygulamak.
-*   Flutter ve Bloc mimarisi kullanarak state yönetimini deneyimlemek.
-*   Ders kapsamında belirlenen öğrenme çıktılarını karşılamak.
-
 ## Temel Özellikler
 
 *   **Hizmet Veren Listeleme:** Farklı kategorilerdeki (kuaför, doktor, vb.) hizmet verenlerin listelenmesi.
